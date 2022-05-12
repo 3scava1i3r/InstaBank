@@ -9,7 +9,7 @@ The main objective of InstaBank is to decentralize the banking and insurance sys
 the power of money from some few hands to the common people. To provide people with
 seamless and smooth banking experience without manual work. After the completion of
 project following objectives will be achieved:
-- Insurace and Fixed Deposit Process will be easy and seamless.
+- Insurace and Dynamic Deposit Process will be easy and seamless.
 - It will be completely transparent and with no human intervention.
 - It will be decentralised with no central authority.
 - It will be completely trustless and permissionless.
