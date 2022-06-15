@@ -1,7 +1,7 @@
 import { useConnection } from "./connection_provider/connection_provider";
 import { ethers } from "ethers";
 
-import IERC20Detailed from "../artifacts/contracts/interfaces/base/IERC20Detailed.sol/IERC20Detailed.json";
+import IERC20Detailed from "./artifacts/contracts/interfaces/base/IERC20Detailed.sol/IERC20Detailed.json";
 import { toEther } from "../utils/helpers";
 
 const findLiqudatablePositions = async (
