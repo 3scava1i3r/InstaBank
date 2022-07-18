@@ -1,4 +1,4 @@
-# instabank
+# Instabank
 
 
 Every year tropical cyclones lead to huge damage to lives and properties, and for every affected victim Insurance Companies are ray of hope. But this insurance companies are heavily centralized, which leads to delayed payouts due to all the verifications that need to be done by human actors. So to cater to this problem we’ve come up with is a decentralized insurance system that makes sure that every user gets paid instantly and when a cyclone strikes without needing centralized companies to verify premium payments and payout conditions.
@@ -17,3 +17,7 @@ project following objectives will be achieved:
 - Data will be highly secured and hack proof, and encrypted.
 
 
+While trying to access the website please have the prerequisites -
+- install metamask chrome extension and have it on rinkeby test network
+- have some test rinkeby eth
+- have a superfluid dashboard made
