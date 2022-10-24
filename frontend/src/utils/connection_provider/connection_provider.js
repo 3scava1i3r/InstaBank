@@ -26,9 +26,9 @@ export function ConnectionProvider(props) {
 
       const { chainId } = await provider.getNetwork();
 
-      if (!supportedNetworks[chainId]) {
-        throw new Error("Switch to Rinkeby or Mumbai network from your browser wallet");
-      }
+//       if (!supportedNetworks[chainId]) {
+//         throw new Error("Switch to Rinkeby or Mumbai network from your browser wallet");
+//       }
 
       setState({
         ...state,
