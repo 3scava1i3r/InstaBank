@@ -21,3 +21,14 @@ While trying to access the website please have the prerequisites -
 - install metamask chrome extension and have it on rinkeby test network
 - have some test rinkeby eth
 - have a superfluid dashboard made
+
+
+Some images from the frontend ->
+
+![Screenshot from 2022-05-11 17-32-46](https://user-images.githubusercontent.com/52003051/198563865-7fcf02c0-43f9-4675-a59f-8eaa4795e7c3.png)
+![Screenshot from 2022-05-11 17-31-34](https://user-images.githubusercontent.com/52003051/198563904-1855db0f-2295-4105-9a5f-6e6bed782deb.png)
+
+![Screenshot from 2022-05-11 17-30-49](https://user-images.githubusercontent.com/52003051/198563927-5751d6b3-c051-44d6-8b7c-8201b009ef96.png)
+
+
+![Screenshot from 2022-05-11 17-32-54](https://user-images.githubusercontent.com/52003051/198563947-389d8073-c8ea-47e8-b22d-350431057e82.png)
